@@ -1,4 +1,4 @@
-# Recursos Pedagògics per a l’Ensenyament de Tinkercad
+# Recursos pedagògics per a l’ensenyament de Tinkercad
 
 Aquest repositori recull materials, guies i activitats per facilitar l’ensenyament i l’aprenentatge de **Tinkercad**, una eina en línia per dissenyar models 3D, circuits electrònics i programació amb blocs.
 
